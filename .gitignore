@@ -1,0 +1,10 @@
+venv
+# macOS Files
+.DS_Store
+
+miner-output/junit/source
+
+.idea/
+__pycache__/
+*.py[cod]
+*$py.class
