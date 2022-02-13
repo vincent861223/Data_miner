@@ -2,7 +2,7 @@ venv
 # macOS Files
 .DS_Store
 
-miner-output/junit/source
+miner-output/junit4/source
 
 .idea/
 __pycache__/
